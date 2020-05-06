@@ -1,4 +1,4 @@
-# # # # BRO PROXY SERVER # # # #
+# # # # HTTP PROXY SERVER # # # #
 
 To run localhost as proxy server: Change HTTP Proxy to "127.0.0.1" and Port to "9999"
 
